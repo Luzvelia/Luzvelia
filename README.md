@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src=https://giphy.com/gifs/Pluralsight-girl-woman-pluralsight-LMcB8XospGZO8UQq87"/>
+  <img src="https://media4.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47otj75zlispyfe4c7ia4o8yepb2y3ps9isnu4yhf2&rid=giphy.gif&ct=g"/>
 </p>
 
 
