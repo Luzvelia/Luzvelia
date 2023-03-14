@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=24&pause=1000&color=CA2D10&width=435&lines=Hi%2C+I+am+Luzvelia+N%C3%BA%C3%B1ez+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=24&pause=1000&color=CA2D10&width=435&lines=Hi%2C+I+am+Luzvelia+N%C3%BA%C3%B1ez+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 
-<p align="center">
+<p>
   <img src="https://media4.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47otj75zlispyfe4c7ia4o8yepb2y3ps9isnu4yhf2&rid=giphy.gif&ct=g"/>
 </p>
 
