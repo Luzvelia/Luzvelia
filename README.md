@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Luzvelia/Luzvelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=CA2D10&width=435&lines=Hi%2C+I+am+Luzvelia+N%C3%BA%C3%B1ez" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=24&pause=1000&color=CA2D10&width=435&lines=Hi%2C+I+am+Luzvelia+N%C3%BA%C3%B1ez+%F0%9F%91%8B" alt="Typing SVG" /></a>
